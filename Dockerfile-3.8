@@ -17,5 +17,3 @@ RUN \
 
 WORKDIR /work
 ENTRYPOINT ["/bin/ash"]
-
-VOLUME ["/work"]
